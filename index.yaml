@@ -3,12 +3,12 @@ entries:
   standard-service:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-04-13T06:11:16.257869037Z"
+    created: "2021-04-13T12:52:24.388697991Z"
     description: A Helm chart for Kubernetes
-    digest: 0a7f8c2cb06525a3380e7c98d0ba2cc1e825c0e1e967cb30eb43477c64a9d6d4
+    digest: aa97332fb95462e43ef3848c50a286cd9424fc3e2bb651e567842f2a1f862702
     name: standard-service
     type: application
     urls:
     - standard-service-0.1.0.tgz
     version: 0.1.0
-generated: "2021-04-13T06:11:16.257417788Z"
+generated: "2021-04-13T12:52:24.388162412Z"
